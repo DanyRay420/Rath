@@ -2,3 +2,4 @@ Flask
 Flask_cors
 SQLAlchemy==1.4.0
 gevent
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
