@@ -2,3 +2,4 @@ Flask
 Flask_cors
 SQLAlchemy==1.4.0
 gevent
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
