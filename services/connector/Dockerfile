@@ -1,4 +1,4 @@
-From python:3.10.7
+From python:3.13.0b3
 
 WORKDIR /connector
 
