@@ -31,7 +31,7 @@
     "mobx": "^6.6.2",
     "mobx-react-lite": "^3.4.0",
     "monaco-editor": "^0.34.1",
-    "nanoid": "^4.0.0",
+    "nanoid": "^5.0.9",
     "office-ui-fabric-core": "^11.0.1",
     "re-resizable": "^6.9.9",
     "react": "^17.0.1",
